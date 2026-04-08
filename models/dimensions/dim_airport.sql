@@ -8,5 +8,5 @@ select
     city,
     stat,
     country,
-    country2
+    country3
 from airports
